@@ -2,24 +2,10 @@
   "name": "mako",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "start": "gulp serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "browserslinst": [
-    "IE 11",
-    "last 3 versions",
-    "> 5%"
-  ],
-  "devDependencies": {
-    "autoprefixer": "^8.0.0",
-    "browser-sync": "^2.23.6",
-    "gulp": "^4.0.0",
-    "gulp-postcss": "^7.0.1",
-    "gulp-sass": "^3.1.0",
-    "postcss": "^6.0.17"
-  }
+  "license": "MIT"
 }
